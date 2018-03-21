@@ -1,2 +1,2 @@
 # hello_world
-first coding exercise
+Hi everyone this is my first exercise on GitHub gooo meeee!!
